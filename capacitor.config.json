@@ -1,0 +1,8 @@
+{
+  "appId": "com.mahmoud.gymtracker",
+  "appName": "Mahmoud Gym Tracker",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
